@@ -23,7 +23,8 @@ use_header_cover: true
 # or
 # Specify an online resource like so:
 # index_cover: http://somewhere.com/path/to/banner.jpg
-index_cover: img/default-banner-dark.jpg
+#index_cover: img/default-banner-dark.jpg
+index_cover: /CSBLOG/img/timg.jpg
 
 widgets:
 - category
@@ -32,10 +33,10 @@ widgets:
 
 # widget behavior
 archive_type: 'monthly'
-show_count: false
+show_count: true
 
 # favicon
-favicon: favicon.ico
+favicon: /CSBLOG/favicon.ico
 
 # Google Analytics Tracking ID
 google_analytics:

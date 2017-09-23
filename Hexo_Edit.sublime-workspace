@@ -419,6 +419,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_config.yml",
+			"settings":
+			{
+				"buffer_size": 1966,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/beantech/layout/_partial/sidebar.ejs",
+			"settings":
+			{
+				"buffer_size": 277,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Backup/beantech/_config.yml",
+			"settings":
+			{
+				"buffer_size": 4048,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Backup/aero-dual/_config.yml",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "themes/aero-dual/README.md",
+			"settings":
+			{
+				"buffer_size": 7206,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "source/_posts/Blog Restart.md",
+			"settings":
+			{
+				"buffer_size": 150,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "themes/aero-dual/source/css/_partial/index-entry.styl",
+			"settings":
+			{
+				"buffer_size": 1429,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Makefile/Make.sublime-build",
 	"build_system_choices":
@@ -450,9 +506,33 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/F/李晓斌/Blog/source",
+		"/F/李晓斌/Blog",
+		"/F/李晓斌/Blog/Backup/beantech",
+		"/F/李晓斌/Blog/Backup/beantech/source",
+		"/F/李晓斌/Blog/Backup/beantech/source/_posts",
+		"/F/李晓斌/Blog/Backup/beantech/themes/beantech/layout",
+		"/F/李晓斌/Blog/Backup/beantech/themes/beantech/source",
+		"/F/李晓斌/Blog/themes",
+		"/F/李晓斌/Blog/themes/aero-dual",
+		"/F/李晓斌/Blog/themes/beantech",
+		"/F/李晓斌/Blog/themes/beantech/layout",
+		"/F/李晓斌/Blog/themes/beantech/layout/_partial",
+		"/F/李晓斌/Blog/themes/beantech/layout/_widget"
+	],
 	"file_history":
 	[
+		"/F/李晓斌/Blog/themes/aero-dual/_config.yml",
+		"/F/李晓斌/Blog/source/_posts/C-Query-to-be-solved.md",
 		"/F/李晓斌/Blog/source/_posts/Hexo-GitHub-Setup.md",
+		"/F/李晓斌/Blog/themes/beantech/_config.yml",
+		"/F/李晓斌/Blog/themes/aero-dual/layout/_partial/footer.ejs",
+		"/F/李晓斌/Blog/themes/aero-dual/source/css/_helpers/mixins.styl",
+		"/F/李晓斌/Blog/themes/landscape/source/css/_util/grid.styl",
+		"/F/李晓斌/Blog/themes/landscape/_config.yml",
+		"/F/李晓斌/Blog/hexo-theme-aero-dual/_config.yml",
 		"/F/李晓斌/Blog/source/_posts/Blog Restart.md",
 		"/F/李晓斌/Blog/_config.yml",
 		"/E/Xiaobin/Coding/CPP/Binary Heap/Binary Heap.hpp",
@@ -542,13 +622,14 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 36.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 96.0,
 		"where_history":
 		[
+			"F:\\李晓斌\\Blog"
 		]
 	},
 	"find_state":
@@ -556,6 +637,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"public_dir",
+			"use_header_cover",
+			"background",
 			"queue",
 			"break;",
 			"case",
@@ -588,14 +672,215 @@
 		"reverse": false,
 		"show_context": true,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1966,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1814,
+								1814
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "themes/beantech/layout/_partial/sidebar.ejs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 277,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								179
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Backup/beantech/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Backup/aero-dual/_config.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								957,
+								957
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "themes/aero-dual/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2640.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "source/_posts/Blog Restart.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								101
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "themes/aero-dual/source/css/_partial/index-entry.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								393,
+								393
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -676,7 +961,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 230.0,
+	"side_bar_width": 316.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
