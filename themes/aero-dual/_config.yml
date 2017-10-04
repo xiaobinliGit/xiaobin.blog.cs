@@ -38,6 +38,10 @@ show_count: true
 # favicon
 favicon: /CSBLOG/favicon.ico
 
+leancloud_visitors:
+  enable: true
+  app_id: vogYClp5geMH9OB2sBGB9TF6-gzGzoHsz
+  app_key: KrAXmRLkU5owmcStPlWi30UT
+
 # Google Analytics Tracking ID
 google_analytics:
-

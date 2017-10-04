@@ -26,6 +26,10 @@
   <% var targetStyle = 'css/style.' + (config.theme_style || 'light') + '.css' %>
   <%- css(targetStyle) %>
 
+  <!-- LeanCloud Analytics -->
+  <% include leancloud-analytics.ejs %>
+
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
 </head>
+

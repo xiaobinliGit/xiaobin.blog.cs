@@ -25,8 +25,13 @@
         <% if (post.tags && post.tags.length) { %>
           <div class="post-tags text-muted">
             Tags: <%- partial('tags', {tags: post.tags, tagHash: true}) %>
+            <!--  leancloud  -->
+            <% if(theme.leancloud_visitors.enable){ %>Hits:
+              <span id="<%= url_for(post.path) %>" class="leancloud_visitors" data-flag-title="<%- post.title %>"></span>次
+            <% } %>
           </div>
         <% } %>
+
         <!-- Post Main Content -->
         <div class="post-content">
           <%- post.content %>
