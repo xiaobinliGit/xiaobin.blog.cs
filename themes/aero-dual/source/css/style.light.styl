@@ -15,13 +15,13 @@ $light-purple = #B27DF4
 /* modify value of $theme-color to get different theme colors */
 $theme-color            = $light-blue
 $theme-text-color       = $color-black
-$theme-background       = $color-white
+$theme-background       = transparent
 $theme-code-background  = $color-beige
 $theme-seperator        = $color-light-grey
 $theme-dotted-seperator = $color-grey
 
 color-revert()
-  color $theme-background
+  color $color-white
   background-color $theme-color
 
 @import '_helpers/mixins'

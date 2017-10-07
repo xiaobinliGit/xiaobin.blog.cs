@@ -14,6 +14,7 @@
             var url = $(".leancloud_visitors").attr('id').trim();
             // where field
             query.equalTo("words", url);
+
             // count 
             query.count().then(function (number) {
                 // There are number instances of MyClass where words equals url.
@@ -26,6 +27,7 @@
    // 追加pv
     function addCount(Counter) {
         var url = $(".leancloud_visitors").length > 0 ? $(".leancloud_visitors").attr('id').trim() : 'https://xiaobinligit.github.io/CSBLOG/';
+        console.log('addCount url:'+url);
         var Counter = AV.Object.extend("Counter");
         var query = new Counter;
         query.save({

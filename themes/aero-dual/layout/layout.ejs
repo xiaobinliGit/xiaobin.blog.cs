@@ -5,9 +5,17 @@
   <body>
     <%- body %>
 
+    <%- partial('_partial/contact') %>
+
     <%- partial('_partial/footer') %>
 
+
+
     <%- partial('_partial/after-footer') %>
+
+	<% if(theme.canvas_nest){ %>
+		<script type="text/javascript" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+	<% } %>
 
   </body>
 </html>
