@@ -242,3 +242,4 @@ ssh-keygen -t rsa
 1. http://blog.csdn.net/jzooo/article/details/46781805
 2. https://xuanwo.org/2015/03/26/hexo-intor/
 3. http://m.blog.csdn.net/csdn_lisword/article/details/73804982
+4. http://www.cnblogs.com/tengj/p/5357879.html
