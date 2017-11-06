@@ -237,3 +237,8 @@ ssh-keygen -t rsa
 ![git2](/CSBLOG/images/Git_SSH.jpg)
 ![git1](/CSBLOG/images/Git_SSH1.jpg)
 至此，大功告成！enjoy your blog!
+
+### <font color=#A52A2A>4· 参考文章</font>
+1. http://blog.csdn.net/jzooo/article/details/46781805
+2. https://xuanwo.org/2015/03/26/hexo-intor/
+3. http://m.blog.csdn.net/csdn_lisword/article/details/73804982

@@ -79,5 +79,6 @@ theme: aero-dual
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
  type: git
- repository: https://github.com/xiaobinliGit/CSBLOG.git
+ repository: https://xiaobinliGit@github.com/xiaobinliGit/CSBLOG.git
+#repository: git@github.com:xiaobinliGit/xiaobinliGit.github.io.git/CSBLOG.git
  branch: master

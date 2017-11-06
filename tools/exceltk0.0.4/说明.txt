@@ -1,0 +1,20 @@
+exceltk0.0.4
+
+exceltk用例
+-----------
+
+- 整个表格
+exceltk.exe -t md -xls xxx.xls
+exceltk.exe -t md -xls xxx.xlsx
+
+- 指定sheet
+exceltk.exe -t md -xls xx.xls -sheet sheetname
+exceltk.exe -t md -xls xx.xlsx -sheet sheetname
+
+
+exceltk特性
+-----------
+- 转换Excel表格到MarkDown表格
+- 支持Excel单元格带超链接
+- 如果Excel里有合并的跨行单元格，在转换后的MarkDown里是分开的单元格，这是因为MarkDown本身不支持跨行单元格
+- 如果Excel表格右侧有大量的空列，则会被自动裁剪，算法是根据前100行来检测并计算
