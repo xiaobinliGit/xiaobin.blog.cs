@@ -30,8 +30,9 @@ S = n -log(n) +1 = O(n)
 结论：构造二叉堆的时间复杂度为线性得证
 
 附最大二叉树构造代码：
-```
-#include "Binary_Heap.hpp"
+
+{% codeblock lang:cpp %}
+include "Binary_Heap.hpp"
 
 void BinaryHeap::createMaxBinaryHeap(int index)
 {
@@ -80,4 +81,5 @@ void BinaryHeap::getBinaryHeap()
 	}
 	cout<<endl;
 }
-```
+{% endcodeblock %}
+
