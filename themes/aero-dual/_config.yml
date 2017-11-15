@@ -47,4 +47,4 @@ leancloud_visitors:
 # Google Analytics Tracking ID
 google_analytics:
 
-canvas_nest: true
+canvas_nest: false
