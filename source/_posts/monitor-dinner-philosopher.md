@@ -6,6 +6,7 @@ categories:
   - Operating System
 tags:
   -OS
+cover: /CSBLOG/images/Ph.JPG
 ---
 ### 摘要: 哲学家进餐管程实现（代码+分析）
 <!--more-->

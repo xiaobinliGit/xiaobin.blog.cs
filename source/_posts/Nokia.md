@@ -6,6 +6,7 @@ categories:
   - 项目管理
 tags:
   -Project Management
+cover: /CSBLOG/images/management.JPG
 ---
 ### 摘要: PM Training in Nokia
 <!--more-->
