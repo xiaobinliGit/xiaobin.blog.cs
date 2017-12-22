@@ -151,9 +151,4 @@ _BUT!!!_
 ### Reference:
 1. http://blog.jobbole.com/113230/
 2. https://toggl.com/developer-methods-infographic
-
-
-
-
-
-
+3. Graphics support by my wife Yu Rongrong
