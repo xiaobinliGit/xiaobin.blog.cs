@@ -5,7 +5,7 @@ categories:
   - 技术日志
   - 关于博客
 tags: ["Blog Restart"]
-cover: /CSBLOG/images/time.jpg  
+cover: /images/time.jpg  
 ---
 ### 摘要: 晓斌的博客
 <!--more-->

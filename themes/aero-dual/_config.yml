@@ -25,7 +25,7 @@ use_header_cover: true
 # Specify an online resource like so:
 # index_cover: http://somewhere.com/path/to/banner.jpg
 #index_cover: img/default-banner-dark.jpg
-index_cover: /CSBLOG/img/timg.jpg
+index_cover: /img/timg.jpg
 
 widgets:
 - category
