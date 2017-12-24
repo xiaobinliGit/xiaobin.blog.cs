@@ -1,7 +1,7 @@
 ---
 title: About
 date: 2017-10-07 10:58:10
-cover: /CSBLOG/images/aboutme.JPG  
+cover: /images/aboutme.JPG  
 ---
 
 ### **<font color=#1999EC>Name </font>**

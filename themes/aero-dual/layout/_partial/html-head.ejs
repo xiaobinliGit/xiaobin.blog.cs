@@ -4,7 +4,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="<%= page.description || '' %>">
   <meta name="author" content="<%= config.author || '' %>">
-  <meta name="google-site-verification" content="kmMVDOmnjTrRV0H_HOezr9ZE2TC-nVkFHij--PHM6Sk" /> 
+  <meta name="google-site-verification" content="kmMVDOmnjTrRV0H_HOezr9ZE2TC-nVkFHij--PHM6Sk" />
+  <meta name="baidu-site-verification" content="XztgTEW2do" />
   <!-- Open Graph Data -->
   <meta property="og:title" content="<%= page.title || config.title || '' %>"/>
   <meta property="og:description" content="<%= page.description || config.description || '' %>" />
@@ -32,5 +33,22 @@
 
   <!-- Google Analytics -->
   <%- partial('google-analytics') %>
+
+  <!-- Baidu Push -->
+  <script>
+  (function(){
+      var bp = document.createElement('script');
+      var curProtocol = window.location.protocol.split(':')[0];
+      if (curProtocol === 'https'){
+     bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else{
+    bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(bp, s);
+  })();
+  </script>
+
 </head>
 

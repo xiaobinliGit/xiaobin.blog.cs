@@ -5,7 +5,7 @@ menu:
   # change github and email values to your own addresses
   Github: https://github.com/xiaobinliGit/
   Email: mailto:xiaobin_li@163.com
-  About: https://xiaobinligit.github.io/CSBLOG/aboutme
+  About: https://xiaobinligit.github.io/aboutme
 rss: /atom.xml
 
 # Set to false to disable banner
