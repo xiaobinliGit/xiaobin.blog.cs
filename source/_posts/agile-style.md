@@ -6,9 +6,10 @@ categories:
   - 项目管理
 tags:
   - AGILE
-cover: /images/DevOps/back1.jpeg
+cover: /images/SAFe/safe_essential.png
 ---
 ### 摘要: Agile Way for software development
+<!--more-->
 近期被组织提选为敏捷教练，之后会以agile为基础，大规模部署SAFe(Scailed Agile Framework),但我先从基础记录做起。下面是一些PMI-Agile Certified Practitioner认证学习过程中的一些笔记。
 
 ## Agile principle
