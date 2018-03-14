@@ -166,6 +166,71 @@ private:
 };
 ```
 
+## <font color=#0000FF>leetcode 3</font>
+关键点在于确定start的点和end的点，同时要保证hash的字符的值与字符序列号绑定（试了3种思想，最后一种才最终正确）
+```cpp
+int lengthOfLongestSubstring2(string s) {
+    int v[256];
+    int i = 0;
+    int start = 0, end;
+    int len = 0;
+    int size = s.size()-1;
+    while(size>=0)
+    {
+        v[s[size]] = size--;
+    }
+    while(i<s.size())
+    {
+        if(v[s[i]]!=i) //repeat char
+        {
+            start = max(start,++v[s[i]]);
+        }
+        else //not repeat
+        {
+            //end = i;
+        }
+        v[s[i]] = i++;
+        len = max(len,i-start);
+    }
+    return len;
+}
+
+```
+
+## <font color=#0000FF>leetcode 35</font>
+```cpp
+int searchInsert(vector<int>& nums, int target) {
+        int start = 0;
+        int end = nums.size()-1;
+        int mid = (start+end)/2;
+        if(target>nums[end])
+        {
+            return end+1;
+        }
+        if(target<=nums[start]) //remember the '='' for single element
+        {
+            return start;
+        }
+        while(start+1<end)
+        {
+            mid = (start+end)/2;
+            if(nums[mid]==target)
+            {
+                return mid;
+            }
+            else if(nums[mid]>target)
+            {
+                end = mid;
+            }
+            else
+            {
+                start = mid;
+            }
+        }
+        return start+1;
+    }
+
+```
 
 ## <font color=#0000FF>leetcode 100</font>
 ```cpp
