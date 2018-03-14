@@ -5,7 +5,7 @@ categories:
   - 技术日志
   - 项目管理
 tags:
-  -Agile
+  -AGILE
 cover: 
 ---
 ### 摘要: AGILE·LEAN·SCRUM·KANBAN

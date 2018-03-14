@@ -5,7 +5,7 @@ categories:
   - 技术日志
   - Linux
 tags:
-  - Linux
+  -Linux
 cover: /images/linux/linux.jpg 
 ---
 ### 摘要: Linux Training

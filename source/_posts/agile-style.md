@@ -5,7 +5,7 @@ categories:
   - 技术日志
   - 项目管理
 tags:
-  - AGILE
+  -AGILE
 cover: /images/SAFe/safe_essential.png
 ---
 ### 摘要: Agile Way for software development

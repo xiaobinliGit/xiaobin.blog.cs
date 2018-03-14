@@ -5,7 +5,7 @@ categories:
   - 技术日志
   - 项目管理
 tags:
-  - DevOps
+  -DevOps
 cover: /images/DevOps/back1.jpeg
 ---
 ### 摘要: DevOps Way of Work
