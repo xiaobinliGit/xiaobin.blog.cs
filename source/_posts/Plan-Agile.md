@@ -1,6 +1,6 @@
 ---
 title: Plan for agile project
-date: 2018-03-18 20:12:26
+date: 2018-03-17 20:12:26
 categories:
   - 技术日志
   - 项目管理
@@ -82,5 +82,23 @@ cover: /images/SAFe/safe_essential.png
 	c)	Effort requirements
 2.	Ideal day
 3.	Relative sizing(no exact estimation, just by experts or key stakeholders)
-### value-base priorities: ROI,NPV,IRR,MVP
+4.	Wideband Delphi
+5.	Poke
+6.	Affinity Estimation
+
+### Value-base priorities: ROI,NPV,IRR,MVP
 ### Customer-base priorities: Kano(costomer satisfication degree VS implementation degree)
+
+### MoSCoW Model
+1.	Must have
+2.	Should have 
+3.	Could have
+4.	Won’t have(Exclude the US map)
+
+### Guideline for changing release plan into iteration plan(INVEST)
+1.	Independent
+2.	Negotiable
+3.	Valuable
+4.	Estimable
+5.	Small
+6.	Testable 
