@@ -1,5 +1,5 @@
 ---
-title: Java Part1--Basic
+title: Java Part1--Java technology, syntax and class review 
 date: 2018-06-3 21:52:25
 categories:
   - 技术日志

@@ -1,5 +1,5 @@
 ---
-title: Java Part2--Basic
+title: Java Part2--Interfaces, Lambda Expressions, Collections, and Generics
 date: 2018-06-11 20:39:25
 categories:
   - 技术日志
